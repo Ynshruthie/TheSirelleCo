@@ -1,0 +1,22 @@
+# Operating-system and editor files
+.DS_Store
+**/.DS_Store
+.idea/
+.vscode/
+.cursor/
+
+# Dependencies and generated output
+**/node_modules/
+**/.dart_tool/
+**/build/
+**/.pub-cache/
+**/.flutter-plugins-dependencies
+
+# Local secrets (commit the example files only)
+**/.env
+**/.env.*
+!**/.env.example
+
+# Local source material and Flutter SDK are not part of the application repository
+Sirelle App/All-Categories/
+Sirelle App/The Sirelle Co/flutter/
