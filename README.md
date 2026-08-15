@@ -149,7 +149,7 @@ For Firebase and backend setup, see the [app README](Sirelle%20App/The%20Sirelle
 
 ## Security and confidentiality notice
 
-Copyright (c) 2026 Vishruth. All rights reserved.
+Copyright (c) 2026 Yelika Nagashruthi . All rights reserved.
 
 This repository and its contents are proprietary and confidential. No permission is granted to use, copy, modify, merge, publish, distribute, sublicense, or sell any part of this software without explicit written permission from the author.
 
